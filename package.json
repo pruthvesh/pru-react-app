@@ -1,0 +1,19 @@
+{
+  "name": "pru-react-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pruthvesh@github.com/pruthvesh/pru-react-app.git"
+  },
+  "author": "Pruthvesh Kadiya <pruthvesh.kadiya@castingnetworks.in>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pruthvesh/pru-react-app/issues"
+  },
+  "homepage": "https://github.com/pruthvesh/pru-react-app#readme"
+}
