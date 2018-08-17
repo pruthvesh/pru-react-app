@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/pruthvesh/pru-react-app/issues"
   },
-  "homepage": "https://github.com/pruthvesh/pru-react-app#readme"
+  "homepage": "https://github.com/pruthvesh/pru-react-app#readme",
+  "bin": {
+    "pru-react-app": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.15.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
 }
